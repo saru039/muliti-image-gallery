@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/1bf2e4b8-046f-43fa-ab10-2b8b5601c872)
+![image](https://github.com/user-attachments/assets/3ad1ab9f-67f7-460a-b00e-58ea5b1fc7e0)
+![image](https://github.com/user-attachments/assets/c13aae07-f7b5-4c03-8990-3734d3aa93c1)
 <h1>Multi Image Gallery</h1>
     <p><strong>Multi Image Gallery</strong> is a responsive image gallery built using PHP, HTML, and CSS. It allows users to upload, view, and manage multiple images efficiently. Designed with a user-friendly interface, the gallery provides an organized layout to showcase images. The PHP backend ensures smooth image handling and seamless display across devices.</p>
 

@@ -1,0 +1,36 @@
+.gallery-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 10px;
+    border: 1px solid #000;
+}
+
+.gallery-item{
+    display: block !important;
+    width: 12rem;
+    background-color: rgb(228, 228, 228);
+}
+
+.gallery-item img{
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 830/550;
+}
+
+.gallery-item h3{
+    text-align: center;
+    color: #000;
+    font-family: 'poppins';
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+}
+.text-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

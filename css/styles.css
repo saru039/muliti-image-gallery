@@ -1,0 +1,37 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 2em;
+}
+.header{
+    font-family: 'poppins';
+    background-color: rgb(219, 255, 255);
+    display: block;
+    justify-content: center;
+    justify-items: center;
+    padding: 5rem;
+}
+h1{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 20px;;
+}
+p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.button{
+    background-color: red;
+    padding: 25px 40px 0px 40px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 10px;
+}

@@ -39,13 +39,6 @@
   <li>Click on an image for a detailed view.</li>
 
 </ol>
-<h2>Screenshots</h2>
-
-<ul>
-        <li>![image](https://github.com/user-attachments/assets/51fe227c-d388-49aa-89a4-a078ea035ac5)</li>
-        <li>![image](https://github.com/user-attachments/assets/3ad1ab9f-67f7-460a-b00e-58ea5b1fc7e0)</li>
-        <li>![image](https://github.com/user-attachments/assets/c13aae07-f7b5-4c03-8990-3734d3aa93c1)</li>
-    </ul>
 <h2>Technologies Used</h2>
     <ul>
         <li>HTML</li>
